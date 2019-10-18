@@ -1,1 +1,2 @@
-console.log('This is now the changes for BranchA Mwahahaha');
+console.log('This is now the changes for branchB (the best of all the branches)');
+
